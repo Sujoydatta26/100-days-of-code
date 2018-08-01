@@ -7,3 +7,9 @@
 		https://github.com/Sujoydatta26/100-days-of-code
 	#ToDo:
 		A lot!
+
+#Day 2:
+	#Progress:
+		Created the login page for the blog.
+	#ToDo:
+		Fix the colors and improve overall design. Create the other activity pages.
