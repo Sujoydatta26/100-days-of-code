@@ -11,6 +11,7 @@ Day 1:
 		A lot!
 
 Day 2:
+
 	Progress:
 		Created the login page for the blog.
 	ToDo:
