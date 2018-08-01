@@ -10,8 +10,8 @@ Day 1:
 	#ToDo:
 		A lot!
 
-#Day 2:
-	#Progress:
+Day 2:
+	Progress:
 		Created the login page for the blog.
-	#ToDo:
+	ToDo:
 		Fix the colors and improve overall design. Create the other activity pages.
