@@ -7,11 +7,17 @@ Day 1:
 	
 	Link for progress:
 		https://github.com/Sujoydatta26/100-days-of-code
-	#ToDo:
+	ToDo:
 		A lot!
 
-#Day 2:
-	#Progress:
+Day 2:
+	Progress:
 		Created the login page for the blog.
-	#ToDo:
+	ToDo:
 		Fix the colors and improve overall design. Create the other activity pages.
+Day 3:
+	Progress:
+		Didnt do much. Worked out the firebase phone number verification process for the pending assingment.
+	ToDo:
+		Fix the code and make it work.
+
