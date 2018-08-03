@@ -17,7 +17,9 @@ Day 2:
 		Fix the colors and improve overall design. Create the other activity pages.
 Day 3:
 	Progress:
-		Didnt do much. Worked out the firebase phone number verification process for the pending assingment.
+		Worked out the firebase phone number verification process for the pending assingment.
 	ToDo:
 		Fix the code and make it work.
-
+Day 4:
+	Progress:
+		Fixed firebase authentication for the assignment. Completed and mailed the assignment. Waiting for a feedback from them!
