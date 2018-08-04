@@ -30,3 +30,9 @@ Day 4:
 	ToDo:
 		Need to complete the authentication process tomorrow.
 
+Day 5:
+
+	Progress:
+		Learnt how to authenticate a user to firebase and Completed the sign in process. Pushed app to github. Also learnt a little about unit testing.
+	ToDo:
+		Complete the registration process for a new user and make the layout for the rest of the app. 
