@@ -26,3 +26,7 @@ Day 4:
 	
 	Progress:
 		Fixed firebase authentication for the assignment. Completed and mailed the assignment. Waiting for a feedback from them!
+		Made the final login and registration screens of meme app. UI looks good.
+	ToDo:
+		Need to complete the authentication process tomorrow.
+
