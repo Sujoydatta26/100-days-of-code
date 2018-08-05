@@ -36,3 +36,10 @@ Day 5:
 		Learnt how to authenticate a user to firebase and Completed the sign in process. Pushed app to github. Also learnt a little about unit testing.
 	ToDo:
 		Complete the registration process for a new user and make the layout for the rest of the app. 
+
+Day 6:
+
+	Progress:
+		Made a lot of progress today. Completed the registration and logout process for a new user. Added the account setup activity. Used a image cropping library to upload cropped circular images as display picture. Lot more to learn. Hope i can remember all these commands.
+	ToDo:
+		Complete the account setup activity.
