@@ -43,3 +43,8 @@ Day 6:
 		Made a lot of progress today. Completed the registration and logout process for a new user. Added the account setup activity. Used a image cropping library to upload cropped circular images as display picture. Lot more to learn. Hope i can remember all these commands.
 	ToDo:
 		Complete the account setup activity.
+
+Day 7:
+	
+	Progress:
+		Complete waste of a day. Tried implementing firebase realtime database features. Made a whole mess. Will have to start from the basics of firebase tomorrow. It is becoming a test of endurance as days progress.
