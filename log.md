@@ -48,3 +48,10 @@ Day 7:
 	
 	Progress:
 		Complete waste of a day. Tried implementing firebase realtime database features. Made a whole mess. Will have to start from the basics of firebase tomorrow. It is becoming a test of endurance as days progress.
+
+Day 8:
+
+	Progress:
+		Learnt the basics of firebase. How to store and retrieve data. Reference tutorial - tvac studio in youtube.
+	ToDo:
+		Got a new assignment, will be making an app for Rc Calcutta Yuvis
