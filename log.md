@@ -55,3 +55,10 @@ Day 8:
 		Learnt the basics of firebase. How to store and retrieve data. Reference tutorial - tvac studio in youtube.
 	ToDo:
 		Got a new assignment, will be making an app for Rc Calcutta Yuvis
+
+Day 9:
+
+	Progress:
+		Firebase Syntaxes still fucking me up. Learnt RecyclerViews and CardViews. Wanted to implement them along with Firebase Ui but failed. Will work on that next time.
+	ToDo:
+		Selected from second round of shortlisting in IIT kGP, received an assignment from them. First task tomorrow, download a text file from an url, use regex to split them up and save them as individual list items.
