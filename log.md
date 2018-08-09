@@ -62,3 +62,16 @@ Day 9:
 		Firebase Syntaxes still fucking me up. Learnt RecyclerViews and CardViews. Wanted to implement them along with Firebase Ui but failed. Will work on that next time.
 	ToDo:
 		Selected from second round of shortlisting in IIT kGP, received an assignment from them. First task tomorrow, download a text file from an url, use regex to split them up and save them as individual list items.
+
+Day 10:
+
+	Progress:
+		Learnt about Asynctasks and how to create a download task to download a file from a remote server. Important part to remember:	int data = reader.read();
+		while(data != -1){
+			char ch = (char) data;
+			data = reader.read();
+		}
+	ToDo:
+		Apply string manipulation to extract and sort the desired string, and perform the rest of the assignment task.
+	Project link:
+		https://github.com/Sujoydatta26/mBreathInternship
