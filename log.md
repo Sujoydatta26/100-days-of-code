@@ -75,3 +75,9 @@ Day 10:
 		Apply string manipulation to extract and sort the desired string, and perform the rest of the assignment task.
 	Project link:
 		https://github.com/Sujoydatta26/mBreathInternship
+Day 11:
+
+	Progress:
+		Completed assignment one. Learnt how to use the maps api. Plotted the given location in google maps. Learnt about android sensors and how to get the values from them.
+	ToDo:
+		Work on how to plot the data from the sensors on a graph.
