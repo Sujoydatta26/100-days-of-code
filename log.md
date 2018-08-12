@@ -81,3 +81,14 @@ Day 11:
 		Completed assignment one. Learnt how to use the maps api. Plotted the given location in google maps. Learnt about android sensors and how to get the values from them.
 	ToDo:
 		Work on how to plot the data from the sensors on a graph.
+
+Day 12:
+
+	Progress:
+		Phone is dead. Dont like testing in an emulator, will have to wait till new phone arrives. Started learning Kotlin for a change. Important thing to remember:
+		var is for variable.
+		val is for constant.
+		for explicit type declaration use (eg.):	var a :Int = 10
+		for explicit type conversion(eg.):		var sum = a.toDouble() + 2.22;
+	ToDo:
+		Learn more kotlin till new phone arrives
