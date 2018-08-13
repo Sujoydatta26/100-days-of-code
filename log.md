@@ -92,3 +92,10 @@ Day 12:
 		for explicit type conversion(eg.):		var sum = a.toDouble() + 2.22;
 	ToDo:
 		Learn more kotlin till new phone arrives
+
+Day 13:
+
+	Progress:
+		Landed a freelance gig to make an app with interview related questions aptitude and puzzles. Rob Perceival's book "How to earn $10,000 while learning to code" really does help. Worked on the layout and logic flow of the app today. Will start coding from tomorrow. I wish i had my phone :3
+	ToDo:
+		Start working on the project.
