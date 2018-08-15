@@ -99,3 +99,10 @@ Day 13:
 		Landed a freelance gig to make an app with interview related questions aptitude and puzzles. Rob Perceival's book "How to earn $10,000 while learning to code" really does help. Worked on the layout and logic flow of the app today. Will start coding from tomorrow. I wish i had my phone :3
 	ToDo:
 		Start working on the project.
+
+Day 14:
+
+	Progress:
+		Learnt about grid layout and how to implement it.
+	ToDo:
+		Learn how to use cardview with grid layout.
