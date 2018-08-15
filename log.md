@@ -103,6 +103,6 @@ Day 13:
 Day 14:
 
 	Progress:
-		Learnt about grid layout and how to implement it.
+		Learnt about grid layout and how to implement it. Also learnt about recyclerview and gridlayoutmanager. Implemented it in the current assignment to make a card based menu with grids.
 	ToDo:
-		Learn how to use cardview with grid layout.
+		Complete the rest of the given assignment
