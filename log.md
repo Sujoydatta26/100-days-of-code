@@ -106,3 +106,10 @@ Day 14:
 		Learnt about grid layout and how to implement it. Also learnt about recyclerview and gridlayoutmanager. Implemented it in the current assignment to make a card based menu with grids.
 	ToDo:
 		Complete the rest of the given assignment
+
+Day 15:
+
+	Progress:
+		Didnt do much today. Read a little about singleton classes. Learnt how to capture an image using the inbuilt camera and display on an imageview.
+	ToDo:
+		Save the image using the name from the edittext
