@@ -113,3 +113,10 @@ Day 15:
 		Didnt do much today. Read a little about singleton classes. Learnt how to capture an image using the inbuilt camera and display on an imageview.
 	ToDo:
 		Save the image using the name from the edittext
+
+Day 16:
+
+	Progress:
+		Implemented the complete logic of the camera app. Give image a name and capture using the camera and save it with the name. Project completed. Implemented the sub category structure in the Interview app. Looks like i have a grasp on recyclerview now.
+	ToDo:
+		Implement onclick listener on each item in recyclerview.
