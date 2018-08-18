@@ -120,3 +120,7 @@ Day 16:
 		Implemented the complete logic of the camera app. Give image a name and capture using the camera and save it with the name. Project completed. Implemented the sub category structure in the Interview app. Looks like i have a grasp on recyclerview now.
 	ToDo:
 		Implement onclick listener on each item in recyclerview.
+Day 17:
+
+	Progress:
+		Implemented the onclick listener on a recyclerview item. Just pass the position of them clicked and run a switch case for the arraylist.
