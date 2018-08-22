@@ -124,3 +124,12 @@ Day 17:
 
 	Progress:
 		Implemented the onclick listener on a recyclerview item. Just pass the position of them clicked and run a switch case for the arraylist.
+
+Day 18:
+
+	Progress:
+		Learnt about fragments and how to implement a simple cardview as a fragment in a layout. Create a new Fragment instance termed as newInstance and return the Fragment Constructor in the newInstance method.
+		 Fragments has to have a default constructor to maintain its saved state on lifecycle changes. Get the fragment view using inflater.inflate() and use it to declare other fragment views. Setup the fragment in the activity using a framelayout for example, and add tools:layout="@layout/fragment_demo" to get the fragment views in the framelayout. 
+
+	ToDo:
+		Add a viewpager inside the main class and import fragment and add contents to it dynamically using an adapter.
