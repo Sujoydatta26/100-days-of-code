@@ -133,3 +133,11 @@ Day 18:
 
 	ToDo:
 		Add a viewpager inside the main class and import fragment and add contents to it dynamically using an adapter.
+
+Day 19:
+
+	Progress:
+		Got an interview call tomorrow from Apsolutio technologies, kolkata. Had been preparing for the interview. Studied about intents in dept. Differentiated between a composition and an inheritance. Inheritance uses the extends keyword. To use composition you just have to create the object of the class. Note: It has to be in the same package.
+
+	ToDo:
+		Prepare more tomorrow and give the interview.
