@@ -148,3 +148,8 @@ Day 20:
 		Exciting day today. Cracked the interview for Apsolutio. Currently i am an Android Developer Intern for Apsolutio Technologies, kolkata.
 	ToDo:
 		Go over the usages of retrofit, firebase and few other concepts. Complete the assignment for the client. Use questions array and answer arrays.
+
+Day 21:
+
+	Progress:
+		Pretty much unproductive day. Didnt do anything at all. Its nice to take a break some times.
