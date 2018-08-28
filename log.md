@@ -153,3 +153,11 @@ Day 21:
 
 	Progress:
 		Pretty much unproductive day. Didnt do anything at all. Its nice to take a break some times.
+
+Day 22:
+
+	Progress:
+		Learnt about Android MPCharts library and implemented a bar chart out of it.
+	ToDo:
+		Learn about fragments.
+
