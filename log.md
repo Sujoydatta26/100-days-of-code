@@ -167,3 +167,10 @@ Day 24:
 		Made a lot of progress in the last few days. Learnt about fragments, charts and lots of other things. Internship helps a lot. Have been working on the AIIT Cam app today, client wants a few changes.
 	ToDo:
 		Have been selected to lead the making of the transaction summary activity for the company. Also have to complete Aiit Cam and start working on the other freelance project.
+
+Day 25:
+
+	Progress:
+		Learnt how to add the multi date picker library from android square.
+	ToDo:
+		Work more on fragments.
