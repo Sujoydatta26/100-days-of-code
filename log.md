@@ -174,3 +174,8 @@ Day 25:
 		Learnt how to add the multi date picker library from android square.
 	ToDo:
 		Work more on fragments.
+
+Day 26:
+
+	Progress:
+		Learnt about view models. Implemented a view model in a simple app.
