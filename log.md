@@ -179,3 +179,10 @@ Day 26:
 
 	Progress:
 		Learnt about view models. Implemented a view model in a simple app.
+
+Day 27:
+
+	Progress:
+		Learnt Realm database. Implemented it with recyclerview and cardview.
+	ToDo:
+		Make Progress on the Interview app for the client.
